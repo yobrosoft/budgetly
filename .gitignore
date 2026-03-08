@@ -1,3 +1,6 @@
 node_modules/
 dist/
 *.js.map
+data/expenses.json
+data/expenses.json.tmp
+*.csv
